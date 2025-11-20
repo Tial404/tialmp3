@@ -5,7 +5,7 @@ account: chin9
 server: rconnect.stolaf.edu
 hostUrl: https://rconnect.stolaf.edu/__api__
 appId: 1142
-bundleId: 3379
+bundleId: 3380
 url: https://rconnect.stolaf.edu/content/383d99d0-cc9f-4b92-8772-6829bfe6e037/
 version: 1
 asMultiple: FALSE
