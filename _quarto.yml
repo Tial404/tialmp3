@@ -5,7 +5,7 @@ website:
   title: "tial"
   navbar:
     left:
-      - href: index.qmd
+      - file: index.qmd
         text: Home
       - Metamorphosis.qmd
 
