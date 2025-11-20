@@ -2,12 +2,12 @@ project:
   type: website
 
 website:
-  title: "tialmp3"
+  title: "tial"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Metamorphosis.qmd
 
 format:
   html:
@@ -16,6 +16,5 @@ format:
       - brand
     css: styles.css
     toc: true
-
 
 

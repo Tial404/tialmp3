@@ -1,11 +1,15 @@
 ---
-title: "tialmp3"
+title: "Tial"
+toc: false
+about: 
+  template: jolla
+  links:
+    - text: LinkedIn
+      href: www.linkedin.com/in/tial-chin-5a1531222
+    - text: GitHub
+      href: https://github.com/Tial404
+    - text: Email
+      href: mailto:chin9@stolaf.edu
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+hello hello
